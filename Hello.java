@@ -13,5 +13,7 @@ public class Hello {
 		String name = scanner.nextLine();
 
 		System.out.println("OUTPUT UPPERCASE: " + name.toUpperCase());
+
+		
 	}
 }
