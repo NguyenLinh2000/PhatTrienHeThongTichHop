@@ -29,7 +29,7 @@ public class Bai2KtSNT {
             System.out.println(n+" không là số nguyên tố!");
         }
 
-        sn.close();
+        // sn.close();
     }
 
 	
